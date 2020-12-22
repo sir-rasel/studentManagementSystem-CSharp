@@ -1,0 +1,15 @@
+C:\Users\Rasel\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.exe
+C:\Users\Rasel\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.deps.json
+C:\Users\Rasel\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.runtimeconfig.json
+C:\Users\Rasel\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.runtimeconfig.dev.json
+C:\Users\Rasel\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.dll
+C:\Users\Rasel\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.pdb
+C:\Users\Rasel\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.csprojAssemblyReference.cache
+C:\Users\Rasel\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Rasel\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\Rasel\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Rasel\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.dll
+C:\Users\Rasel\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.pdb
+C:\Users\Rasel\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.genruntimeconfig.cache
+C:\Users\Rasel\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Rasel\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q4Oc763+qWeeus4zcoT7Cti3dqU6/MrWEqgCPinUywTVi9PVKZHKgu6bNRvKW2Hq43dPlqknagUyqXhcVLA6tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rasel\\Desktop\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rasel\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

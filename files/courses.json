@@ -1,0 +1,12 @@
+{"courseID":"CSE 101", "courseName":"Computer Fundamental", "instructorName":"Lutfi Habiba", "numberOfCredits":3}
+{"courseID":"CSE 102", "courseName":"Operating System", "instructorName":"Tasmi Toma", "numberOfCredits":3}
+{"courseID":"CSE 103", "courseName":"C Programming", "instructorName":"Muntasir Munna", "numberOfCredits":3}
+{"courseID":"CSE 201", "courseName":"C++ Programming", "instructorName":"Saiful Islam Rasel", "numberOfCredits":3}
+{"courseID":"CSE 202", "courseName":"C++ Practical", "instructorName":"Rasel", "numberOfCredits":2}
+{"courseID":"CSE 205", "courseName":"Software Engineering", "instructorName":"Fahad", "numberOfCredits":3}
+{"courseID":"CSE 210", "courseName":"System Design", "instructorName":"Maruf", "numberOfCredits":3}
+{"courseID":"CSE 500", "courseName":"Database Mangement System", "instructorName":"Toma Sultana", "numberOfCredits":3}
+{"courseID":"BBA 102", "courseName":"Basic Accounting", "instructorName":"Ziaul Haque", "numberOfCredits":3}
+{"courseID":"BBA 202", "courseName":"Finance", "instructorName":"Naila Nafia", "numberOfCredits":3}
+{"courseID":"EN 102", "courseName":"English Literature", "instructorName":"Alaudding", "numberOfCredits":3}
+{"courseID":"EN 100", "courseName":"Engilsh Grammer", "instructorName":"Shohid", "numberOfCredits":2}
