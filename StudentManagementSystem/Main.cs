@@ -22,7 +22,7 @@ namespace StudentManagementSystem
             Console.WriteLine("Welcome to the Student Management System\n");
             while (true)
             {
-                label:
+                StartLabel:
 
                 displayInformation(studentList, "student");
 
@@ -55,7 +55,7 @@ namespace StudentManagementSystem
                             option = semesterOptionChooser();
                             if (option == 2)
                             {
-                                goto label;
+                                goto StartLabel;
                             }
                             else if (option > 2)
                             {
@@ -98,12 +98,20 @@ namespace StudentManagementSystem
                                 Console.WriteLine("Enter CourseID");
                                 string courseId = Console.ReadLine();
 
+                                bool isCourseFound = false;
                                 foreach(var course in courseList)
                                 {
                                     if(course.courseID == courseId)
                                     {
+                                        isCourseFound = true;
                                         chosenCourses.Add(course.createDeepCopy());
                                     }
+                                }
+
+                                if (!isCourseFound)
+                                {
+                                    Console.WriteLine("Invalid Course Id, Please Enter a valid course Id.");
+                                    i--;
                                 }
                             }
                             if(chosenCourses.Count != 0) studentList[index].courseInEachSemester.Add(chosenCourses);
@@ -111,11 +119,17 @@ namespace StudentManagementSystem
                     }
                     else
                     {
+                        DeleteLabel:
                         Console.WriteLine("Enter Student id");
                         string id = Console.ReadLine();
 
                         int index = specificStudentIndex(studentList, id);
                         if(index != -1) studentList.RemoveAt(index);
+                        else
+                        {
+                            Console.WriteLine("Please Enter a Valid and existing student Id.");
+                            goto DeleteLabel;
+                        }
                     }
                 }
             }
